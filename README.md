@@ -7,7 +7,7 @@
 
 
 <strong>💬 Ask me about</strong>  
-  &emsp;🏫 I'm a student
+  &emsp; I'm a student
 
   
 ## 📖 Studying
