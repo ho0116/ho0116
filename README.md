@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Colaboratory-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"> 
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> 
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"> 
