@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<a href="mailto:luminous_dawn@icloud.com"><img src="https://img.shields.io/badge/mail-6495ED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sseon286@gmail.com"><img src="https://img.shields.io/badge/mail-6495ED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
